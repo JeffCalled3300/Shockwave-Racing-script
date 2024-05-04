@@ -1,3 +1,5 @@
+if game.PlaceId != 9961650006 then script:Destroy()
+
 -- Instances:
 
 local ScreenGui = Instance.new("ScreenGui")
