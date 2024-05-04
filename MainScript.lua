@@ -1,5 +1,3 @@
-if game.PlaceId != 9961650006 then return end
-
 -- Instances:
 
 local ScreenGui = Instance.new("ScreenGui")
